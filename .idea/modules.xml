@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elastic-importer.iml" filepath="$PROJECT_DIR$/elastic-importer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-importer-grailsPlugins.iml" filepath="$PROJECT_DIR$/elastic-importer-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../elasticsearch-grails-plugin/elasticsearch-grails-plugin.iml" filepath="$PROJECT_DIR$/../elasticsearch-grails-plugin/elasticsearch-grails-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../elasticsearch-grails-plugin/elasticsearch-grails-plugin-grailsPlugins.iml" filepath="$PROJECT_DIR$/../elasticsearch-grails-plugin/elasticsearch-grails-plugin-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../elasticsearch-jdbc/elasticsearch-jdbc.iml" filepath="$PROJECT_DIR$/../elasticsearch-jdbc/elasticsearch-jdbc.iml" />
+    </modules>
+  </component>
+</project>
